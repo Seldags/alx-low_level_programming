@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - C program that prints exactly programming is like building a multilingual puzzle
+ * main - C program that prints exactly programming
  * Return: 0
  */
 int main(void)
