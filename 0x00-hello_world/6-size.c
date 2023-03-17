@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  *  main -  C program that prints the size of various types on the computer
+ *  Description:'The program elaborate on low_level_programming'
  * Return 0 (success)
  */
 int main(void)
