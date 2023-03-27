@@ -1,11 +1,9 @@
 #include <stdio.h>
 /**
- *
  * main - Numberz function
  *
  * Return: 0
  */
-
 int main(void)
 {
 int i;
